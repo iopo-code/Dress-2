@@ -253,7 +253,7 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 						},
 						'tmp': {}
 					};
-					var _0x540506 = this[_0x10cfc5(0x3b4)];
+					//var _0x540506 = this[_0x10cfc5(0x3b4)];
 					_0x4e2582 && Object['deepExtend'](_0x540506, _0x4e2582), _0x540506[_0x10cfc5(
 							0x355)][_0x10cfc5(0x23d)] = {
 							'size_value': _0x540506[_0x10cfc5(0x3b3)][_0x10cfc5(0x3f7)]['value'],
@@ -1708,13 +1708,13 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 							'staticClass': _0x2f4c38(0x2db),
 							'attrs': {
 								'mode': _0x2f4c38(0x41c),
-								'src': 'https://s1.ax1x.com/2023/08/13/pPK6lrR.png'
+								'src': '/static/images/zp.png'
 							}
 						})], 0x1), _0x53acb3(_0x2f4c38(0x24f), {
 							'staticClass': 'navbar',
 							'attrs': {
 								'placeholder': !0x0,
-								'title': '晓倩飞行棋\x20' + _0x4fac37['v'],
+								'title': '飞行棋\x20' + _0x4fac37['v'],
 								'titleStyle': {
 									'color': _0x2f4c38(0x31b),
 									'font-weight': 'bold'
