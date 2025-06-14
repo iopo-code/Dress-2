@@ -2192,8 +2192,8 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 						}) : _0x4fac37['_e'](), _0x53acb3('ithui-bullet-one', {
 							'attrs': {
 								'value': _0x4fac37[_0x2f4c38(0x2ae)],
-								'title': '通知',
-								'buttonText': '已读',
+								'title': '小提示',
+								'buttonText': '好哒',
 								'icon': _0x4fac37[_0x2f4c38(0x350)],
 								'content': _0x4fac37['guanfangTip']
 							},
@@ -3810,11 +3810,11 @@ function a2_0x15ac() {
 		'img_obj', 'substr', 'rect', 'replace', 'callee', '.json', 'distance', 'keyboard', 'decrypt', '人物头像',
 		'speed', 'extend-title', 'encryptNumber', 'exports', 'small', 'goTurntable', 'translateX(-50%)', '#e47470',
 		'borderColor', 'tip-box',
-		'\x0a\x091.七夕特制版来袭，你准备好了吗！🎉💃\x0a\x09<br>\x0a\x092.\x20刀客源码网 www.dkewl.com\x0a\x09<br>\x0a\x093.⚠️🎮\x20这个游戏只是为了娱乐而设计的，请不要将其用于商业用途或违法活动。\x0a\x09<br>\x0a\x094.最后祝大家有个愉快的游戏体验！🎊🎮💫😄\x0a\x09',
+		'\x0a\x091.新的版本哦，你准备好了吗！🎉💃\x0a\x09<br>\x0a\x092.祝你有个愉快的游戏体验！🎊🎮💫😄\x0a\x09',
 		'lockVipClick', 'drawAnimFrame', 'newCode', 'toString', 'value_area', 'bullet-close', 'default', 'widthFix',
 		'onCustom', 'fill', '2919992OZiHtL', 'pow', 'open', '5530', 'pass-box', '去激活', 'x_left', '76rpx',
 		'Error\x20pJS\x20-\x20No\x20image.src', 'url', 'pushing', 'mixin', 'avatarGroup',
-		'https://s1.ax1x.com/2023/08/13/pPK6u24.png', 'f8d5', 'button', 'loading', 'f085', 'keyboard-key__del',
+		'/static/images/beijing.png', 'f8d5', 'button', 'loading', 'f085', 'keyboard-key__del',
 		'nb_sides', 'u--text', 'rightClick', 'defineProperty', 'a9e3', '9905', 'password', 'bubble_clicking',
 		'devicePixelRatio', '11187tAipTY', 'pos_y', '主界面背景', '21c0', 'click_pos_y', 'info', '识别中...', 'money',
 		'cd68', 'floor', 'hover-class', '15rpx', 'linear', '1336155EoOyUv', 'scroll-Y', 'mouse',
