@@ -1829,10 +1829,10 @@ a2_0x4e145f(), (window[a2_0x414849(0x3b2)] = window[a2_0x414849(0x3b2)] || [])['
 								}) : _0x4fac37['_e']()
 							], 0x1);
 						}), 0x1)], 0x1), _0x53acb3(_0x2f4c38(0x278), {
-							'staticClass': 'bottom-bg'
+							//'staticClass': 'bottom-bg'
 						}), _0x53acb3(_0x2f4c38(0x278), {
 							'staticStyle': {
-								'height': _0x2f4c38(0x239)
+								//'height': _0x2f4c38(0x239)
 							}
 						}), _0x53acb3(_0x2f4c38(0x278), {
 							'staticStyle': {
