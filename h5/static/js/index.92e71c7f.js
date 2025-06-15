@@ -3569,7 +3569,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x36b)]
 		}, {
 			'id': 0xd,
-			'title': '七夕特制',
+			'title': '七夕羞羞的',
 			'color': _0xd52b63(0x414),
 			'url': '/pagesA/chess/chess?mode=13',
 			'goFlag': !0x1,
@@ -3625,7 +3625,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x1a8)]
 		}, {
 			'id': 0x7,
-			'title': _0xd52b63(0x253),
+			'title':'是小狗狗的世界捏',
 			'color': '#FFFF00',
 			'url': _0xd52b63(0x2dd),
 			'goFlag': !0x1,
@@ -3634,7 +3634,7 @@
 			'arr': _0x4da39c['SM']
 		}, {
 			'id': 0x8,
-			'title': '绅士仆人',
+			'title': '是小男狗狗的世界捏',
 			'color': _0xd52b63(0x1b1),
 			'url': _0xd52b63(0x548),
 			'goFlag': !0x1,
@@ -3643,7 +3643,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x2e7)]
 		}, {
 			'id': 0x9,
-			'title': _0xd52b63(0x498),
+			'title':'是小女狗狗的世界捏',
 			'color': _0xd52b63(0x35c),
 			'url': _0xd52b63(0x1f5),
 			'goFlag': !0x1,
@@ -3652,7 +3652,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x1be)]
 		}, {
 			'id': 0xc,
-			'title': 'K歌必玩',
+			'title': '在KTV玩的-看着没意思',
 			'color': _0xd52b63(0x552),
 			'url': _0xd52b63(0x3df),
 			'goFlag': !0x1,
@@ -3662,7 +3662,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x47d)]
 		}, {
 			'id': 0xa,
-			'title': _0xd52b63(0x178),
+			'title':'集合啦-啥都有',
 			'color': _0xd52b63(0x214),
 			'url': '/pagesA/chess/chess?mode=10',
 			'goFlag': !0x1,
@@ -6739,7 +6739,7 @@ function a1_0x1856(_0x2f3db9, _0x3fc8ff) {
 }
 
 function a1_0x220d() {
-	var _0x17644a = ['c422', 'firstLine', '#D3D4D6', '对视5秒', '179793QMRLAC', '-fill', 'MAX_VALUE', '基础模式',
+	var _0x17644a = ['c422', 'firstLine', '#D3D4D6', '对视5秒', '179793QMRLAC', '-fill', 'MAX_VALUE', '基础模式-不太好玩',
 		'在阳台或花园里裸露一会儿，享受自然的触感', '$options', 'rgbToHex', '女生含住龟头吸吮一分钟然后咬一下', 'Content-Type',
 		'/pagesA/chess/chess?mode=4', 'pop-in', '82f2', 'toLowerCase', '用嘴巴解开对方身上扣子或者绳结', '53ca', '和对方亲吻并为对方脱掉一件衣服',
 		'对手从大腿根部倒水你接着喝光', 'AsyncLoading', '观音坐莲，左转三圈，右转三圈', 'script', '94ff551a', 'event', 'transparent',
@@ -6765,7 +6765,7 @@ function a1_0x220d() {
 		'对方站着自己跪着帮他（她）口1分钟', 'fiveRightLine', '【福利】对方口你下面30秒', '女方为男方kou交并玩弄弟弟30秒', 'upx2px', '从后面抱着对方任意摩擦10秒',
 		'ab0f', 'common', 'acf4', '3ec7', 'e25e', 'ciphertext', 'redirectTo', 'aMapSecurityJsCode', 'delay',
 		'filterCustomList', 'default', 'downloadFile', 'Pkcs7', 'c3c0', 'u-tips-color', '被男主后抱亲吻，左手捏熊右手抚摸抽插蜜穴',
-		'aMapServiceHost', '百合拉拉', '抚摸对方的大腿30秒', 'volume', 'dataType', 'src', '学猫叫三声', 'isArray', 'oncontextmenu',
+		'aMapServiceHost', '百合拉拉-好香', '抚摸对方的大腿30秒', 'volume', 'dataType', 'src', '学猫叫三声', 'isArray', 'oncontextmenu',
 		'后ru抽插20次', 'd4ec', '皮鞭抽胸10下', 'towLine', '#fa3534', '掀起内衣命令男仆亲吻胸部，同时扭动屁股摩擦男仆私处', 'a9e3', '获取验证码',
 		'用丝巾或者眼罩绑住对方的眼睛，进行一个感官探索游戏', '滚床单时录像，拍完认真观看', 'mixin', 'activeAvatarId', '5aa7', 'chunk-vendors',
 		'后入式抽插20次', '酸奶倒在女生丝足上舔干净', '1ab2', 'loaded', 'shuffle', '049518afbdf1a57d8c61e86f933440c2', '女张开嘴巴被男抽插一分钟',
@@ -6793,7 +6793,7 @@ function a1_0x220d() {
 		'AllData', '下体滴满蜂蜜让TA舌舔干净', 'rgb(', '嘴对嘴喂他喝一杯啤酒', 'switchTab', '女握男跟撩拨自己私处并呻吟', '4f7e',
 		'男方从后面缓慢插入妹妹20下，最后一下猛插到底', '女坐男脸上让TA舌舔私处一分钟', '给对方一个轻柔的脚部按摩，持续2分钟', '用一个浪漫的姿势双方拍照留念', 'onload', 'loadmore',
 		'https://s1.ax1x.com/2023/08/13/pPKMLvj.png', 'linkType', 'config', 'remove', 'locales', '7f2c',
-		'使劲攥握男根使其达到最大硬度在被女王用大腿使劲夹住', 'appVersion', '男仆为女王做背部推油并JJ涂油为阴道推油', '相互拥抱并热情亲吻30秒', '高级版', '自拍一段接吻小视频',
+		'使劲攥握男根使其达到最大硬度在被女王用大腿使劲夹住', 'appVersion', '男仆为女王做背部推油并JJ涂油为阴道推油', '相互拥抱并热情亲吻30秒', '高级点的-更涩了诶', '自拍一段接吻小视频',
 		'/static/images/zn.png', 'ddd1', '被JJ打脸后退3格', 'compressed', 'uOnReachBottom',
 		'#b7b7b7', 'hasOwnProperty', 'App', 'routeIntercept', 'b639', 'mark', '亲吻吸吮TA乳头一分钟', 'circular', 'set',
 		'轻轻咬住对方的耳垂',
@@ -6818,7 +6818,7 @@ function a1_0x220d() {
 		'pagesA-custom-custom', 'c16c', 'input-placeholder', '3aaf', '被男主再下体塞跳跳糖后猛烈抽插30秒', '$emit', 'end',
 		'getPrototypeOf', 'lala', '重新获取', 'unit', '舔对方的脖子到胸30秒', '1ac1', '被女王双腿锁住头部不停舌舔女王私处至女王松开腿', '0c58',
 		'不断舌舔吸撸舌头打转让男主高潮口射并吞精', 'e925', 'validateStatus', 'fallbackLocale', '男生躺在地上，女生蹲在男脸上让男观看15秒（禁止触摸）',
-		'#FF8066', '伸进衣服摸ta屁股30秒', '羞羞版', 'type', '\x20超出了精度限制，结果可能不正确', 'e62a', 'privacyAdvanced', '5296',
+		'#FF8066', '伸进衣服摸ta屁股30秒', '有点羞羞版', 'type', '\x20超出了精度限制，结果可能不正确', 'e62a', 'privacyAdvanced', '5296',
 		'return\x20(function()\x20', 'resolve', '撅腚剥开蜜穴自摸阴蒂求男主CAO死自己算了', '【福利】对方给你口指定部位一分钟', '18a1',
 		'带上眼罩任由对方处置30秒', '带上项圈牵到门口kou一分钟', '#00FF00', '男用JJ磨蹭女生下体一分钟（禁止进入)', 'defineProperty', '脱掉对方一条内裤',
 		'padStart', 'stretch', '2909', 'text/javascript', 'SystemAsyncError', '用镜子看着对方插入并抽插20下',
@@ -6846,7 +6846,7 @@ function a1_0x220d() {
 		'checkmark-circle', 'fa64', 'getDate', 'forEach', '对方坐下，自己躺下，将头枕在对方腿上，对视15秒', '一起给对方按摩', 'loading',
 		'和对方互换一件自己指定的衣服', '胸部涂油女托双乳为男乳交一分钟', '嘴对嘴喂对方吃下巧克力一颗', '523f', 'color:\x20#c0c4cc', '被对方用脚踩胸或蛋蛋10秒',
 		'addInterceptor', 'd9e2', '0d9f', '什么都不做', '做一个自己最性感妩媚的动作，并拍照留念', 'warning', '吸吮对方手指10秒', 'c7eb',
-		'嘴里含上kou交水帮TA\x20kou一分钟', 'ceil', 'X秒重新获取', 'content-type', '脱到只剩一件衣服', '御奴风尚', 'props', 'rejected',
+		'嘴里含上kou交水帮TA\x20kou一分钟', 'ceil', 'X秒重新获取', 'content-type', '脱到只剩一件衣服', '是小M的模式', 'props', 'rejected',
 		'给对方按摩捶背1分钟', '3975867yEBhGC', 'pow', '用双乳为男主推油按摩背部和臀部至男主满意', '#f2f2f2', '交杯酒和对手一起喝半杯', '告诉对方一个自己的小秘密',
 		'猹の笔记', '舔TA的菊花15秒（询问感受）', '拴绳跪在TA面前口交30秒', '4ad0', '7a82', 'close-circle',
 		'pages-index-index~pagesA-chess-chess', '被对手背对坐到身上磨蹭10秒', '#E6E8EB', '191f', '把酸奶涂在胸部和腹部让TA舔干净',
@@ -6881,7 +6881,7 @@ function a1_0x220d() {
 		'#e4e7ed', 'e6cf', '撅起PP让对方打5下', '口含跳跳糖为男主kou交', '67c6', '485pjnRkc', '涂上油胸对胸帮对手推胸30秒', '2af8d9e2', 'test',
 		'TA站着自己跪着帮TA口', 'setLockVip', '7db0', '【福利】对方舔你身上的各个部位1分钟', '舔对手的脖子到胸30秒', '被对手用舌头从脖子慢慢舔到耳根',
 		'将酸奶涂在MM/JJ上让TA舔干净', 'a967', '10e3', '一起喝一杯水', 'c8ba', 'boolean', '和对手亲吻10秒', '84bd', '#f3f4f6', '摸对方头10秒',
-		'add', '4662', '1276', '恋爱版', '蒙上眼睛让对方喂你一种食物，并猜出种类，失败请喝水/酒', '19px', 'pagesA/custom/custom', '对方闭上眼睛给你涂口红',
+		'add', '4662', '1276', '恋爱ing-朦胧的爱', '蒙上眼睛让对方喂你一种食物，并猜出种类，失败请喝水/酒', '19px', 'pagesA/custom/custom', '对方闭上眼睛给你涂口红',
 		'脱光衣服', '3fe0', '两人钻进被窝里亲亲', '被TA随意指定一项任务', 'filter', 'aMapKey', 'system-open-location', '像口交一样吸吮对方手指10秒',
 		'trim', '面无表情的捧着对方的脸对视\x201\x20分钟', '命男仆隔着内裤舌舔亲吻私处', '轻咬对方耳垂，让对方感到痒痒和热情', '/pagesA/chess/chess?mode=2',
 		'女揉搓蛋蛋男含银地一分钟', '#9ACD32', 'eec6', 'navigateBack', '5319', 'ease-out', 'redirect', 'a4d3', '揉一下对方的胸或揪一下',
@@ -6911,9 +6911,9 @@ function a1_0x220d() {
 		'给对方脸颊一个轻轻的吻', '4237', 'keepAliveInclude', '坐到TA脸上让TA吸吮30秒', 'slice', '【福利】对手帮你舔全身各个部位2分钟', '8561',
 		'decrypt', 'parse', '亲吻吸吮男主脚趾头', '摸对方xiong或者打屁股一下', 'qqMapKey', 'target', '舔或轻咬对方耳垂5下',
 		'/pagesA/chess/chess?mode=12', '舔对方奶头并扣妹妹或撸弟弟30秒', '女握男根用龟头绕乳头按摩', 'encryptNumber', 'generateRandomNumber',
-		'function', '5a52', '情侣版', '看着对方紫薇30秒', '带上眼罩被TA无情任意宰割', 'request', 'bee2', '口含冰水或冰块给对手进行口30秒',
+		'function', '5a52', '情侣-有点涩涩', '看着对方紫薇30秒', '带上眼罩被TA无情任意宰割', 'request', 'bee2', '口含冰水或冰块给对手进行口30秒',
 		'69式相互kou交30秒', 'UniApp', '11299309qvOhvE', 'd401', '300', 'bb7d', 'undefined', 'mapState', 'keys',
-		'亲吻对方脖子，然后轻轻吹气', '闭眼被对方自由抚摸1分钟', '羞羞进阶版', '依次亲吻对方脸脖子锁骨', 'ec5fccb4', '坐对手旁边任由对手摸任何部位到解除惩罚',
+		'亲吻对方脖子，然后轻轻吹气', '闭眼被对方自由抚摸1分钟', '更羞羞了-不玩不玩', '依次亲吻对方脸脖子锁骨', 'ec5fccb4', '坐对手旁边任由对手摸任何部位到解除惩罚',
 		'男生边亲女生边抚摸女生下体一分钟', 'PUT', '亲吻TA指定位置一分钟', '2em', '为男主表演老虎吃香肠的魔术把香肠塞入下体', '命令男仆用舌头反复舔阴蒂和阴道', '9884',
 		'ease-in-out', 'repeat', '<view>《跟唱-全场》</view><view>每个人轮流唱一句歌词，接着下一个人继续唱，任何人如果跟不上节奏或者唱错了歌词，就要喝酒</view>',
 		'跪着张开嘴让TA下体磨蹭30秒', 'route', '#c9cacc', '手牵手30秒', 'beac', 'showToast', 'setStorageSync', 'color', 'sent',

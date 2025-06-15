@@ -41,7 +41,7 @@ function a7_0x3274() {
 		'#c0c4cc', 'call', 'a576', 'e67d', 'sixBottomLine\x20refsst', '24932463', 'borderBottomWidth', 'render',
 		'24879591', 'hairline', 'isString', 'square-children', '11850833', 'copy', '/static/chess/sifter5.gif',
 		'count', 'activeManID', 'row', 'parentData', 'staff', 'ca0c', 'click', 'exec', '38cf', 'Reflect', '8d66',
-		'24855901', 'scale', 'color-filled', 'v-uni-rich-text', 'star', '高级版', 'SpeechSynthesisUtterance', '6613',
+		'24855901', 'scale', 'color-filled', 'v-uni-rich-text', 'star', '高级一点的-啊哦更涩了', 'SpeechSynthesisUtterance', '6613',
 		'direction', 'classFilter', '1922', 'clickTip', '49a0', '5444', 'ithui-bullet', '24923165', '24899648',
 		'rotateY', 'minus-filled', '4ae1', '@@toStringTag', 'pop', 'u-action-sheet', 'push', '2236', 'CUSTOM',
 		'e68d', 'cloud-upload-filled', '查看游戏规则', 'eye-filled', 'e65b', 'rotate(120deg)', 'undo-filled', '3bbb',
