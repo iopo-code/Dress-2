@@ -3625,7 +3625,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x1a8)]
 		}, {
 			'id': 0x7,
-			'title':'是小狗狗的世界捏',
+			'title':'是小狗的世界捏',
 			'color': '#FFFF00',
 			'url': _0xd52b63(0x2dd),
 			'goFlag': !0x1,
@@ -3634,7 +3634,7 @@
 			'arr': _0x4da39c['SM']
 		}, {
 			'id': 0x8,
-			'title': '是小男狗狗的世界捏',
+			'title': '是小男狗的世界捏',
 			'color': _0xd52b63(0x1b1),
 			'url': _0xd52b63(0x548),
 			'goFlag': !0x1,
@@ -3643,7 +3643,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x2e7)]
 		}, {
 			'id': 0x9,
-			'title':'是小女狗狗的世界捏',
+			'title':'是小女狗的世界捏',
 			'color': _0xd52b63(0x35c),
 			'url': _0xd52b63(0x1f5),
 			'goFlag': !0x1,
@@ -3652,7 +3652,7 @@
 			'arr': _0x4da39c[_0xd52b63(0x1be)]
 		}, {
 			'id': 0xc,
-			'title': '在KTV玩的-看着没意思',
+			'title': '在KTV玩-没啥意思',
 			'color': _0xd52b63(0x552),
 			'url': _0xd52b63(0x3df),
 			'goFlag': !0x1,
